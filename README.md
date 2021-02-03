@@ -2,7 +2,7 @@
 
 # 
 
-<h2><a href="shydata/govnets">Органы власти РФ и соцсети</a></h2>
+<h2><a href="/shydata/govnets">Органы власти РФ и соцсети</a></h2>
   
 <!--
 **shydata/shydata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
